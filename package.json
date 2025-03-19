@@ -1,0 +1,27 @@
+{
+  "name": "frontend-learnings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrot03/frontend-learnings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/carrot03/frontend-learnings/issues"
+  },
+  "homepage": "https://github.com/carrot03/frontend-learnings#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6"
+  }
+}
